@@ -1,0 +1,104 @@
+body {
+	width: 960px;
+
+}
+#profilepic 
+{
+	width: 250px;
+	height: 300px;
+	float: left;
+	margin-right: 20px;
+
+}
+#profilename
+{
+	float:left;
+	font-size:30px;
+	color: #73A1BD;
+	text-align: center;
+	padding:20px;
+	background-color: white;
+}
+.nav {
+	padding:14px 16px;
+	background-color:white;
+	font-size:30px;
+	text-align: center;
+	float: right;
+	text-decoration: none;
+	display: inline;
+
+}
+a { 
+	text-decoration: none;
+	color: #73A1BD;
+
+}
+.section {
+	border: solid red;
+	padding: 30px;
+}
+
+.aboutme {
+	width: 650px;
+	height: 480px;
+	overflow: hidden;
+	float: left;
+	margin-left:10px;
+	background: white;
+	padding:20px;
+
+
+
+}
+
+.container {
+	clear: both;
+	padding-bottom: 100px;
+}
+h1{
+	color:#73A1BD ;
+	background: white;
+	border-bottom: solid gray;
+	padding-bottom: 5px;
+	padding-left: 10px;
+	font size:30px;
+}
+p {
+	text-indent:30px;
+	color: black;
+}
+
+#aside {
+
+	float:right;
+	width: 200px;
+	height: 202px;
+	padding: 20px;
+	background: white;
+	padding-bottom: 5px;
+	
+}
+h2{
+	border-bottom: solid gray;
+	font-size: 20px;
+	text-align: center;
+	color:#73A1BD ;
+}
+.logo1, .logo2, .logo3 {
+	width: 62px;
+	height: 62px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
